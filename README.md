@@ -1,7 +1,7 @@
 # Good-Old-Time
 Good Old Time is a radio show from Long Island University's Wave that plays music from the past while giving history facts from the time that the music is from.
 New Episodes every Thursday at 5pm EST!
-
+<img width="1408" height="768" alt="Gemini_Generated_Image_(1)" src="https://github.com/user-attachments/assets/6a7e864b-e6fd-496b-9ce7-ba538dbc7ba3" />
 ## EPISODES LIST
 
 - [Ep 1: Pilot](https://drive.google.com/file/d/1NKm02K8nAmtOlWq6rwtzvQ8RIRrc8CMK/view?usp=drive_link)
