@@ -1,5 +1,5 @@
 # Good-Old-Time
-Good Old Time is a radio show that plays music from the past while giving history facts from the time that the music is from.
+Good Old Time is a radio show from Long Island University's Wave that plays music from the past while giving history facts from the time that the music is from.
 New Episodes every Thursday at 5pm EST!
 
 ## EPISODES LIST
