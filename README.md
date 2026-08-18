@@ -11,3 +11,4 @@ New Episodes every Thursday at 5pm EST!
 - [Ep 5: 1940s](https://drive.google.com/file/d/17jSWJoMuyE4p338LE4AmPVsrDYYcRNu0/view?usp=drive_link)
 - [Ep 6: 1950s](https://drive.google.com/file/d/1OQvyUnfzMNWF12MhRjgqwhzhlESd8NVY/view?usp=drive_link)
 - [Ep 7: 1960s](https://drive.google.com/file/d/1VSkVRrsMgN0SD-rkPXMnL1UkPZzE8BOD/view?usp=drive_link)
+- [Special Episode: EPIC](https://drive.google.com/file/d/1613kBVAWvslnqxBoowYZJ6oEfhZxVGoJ/view?usp=drivesdk)
