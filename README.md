@@ -13,3 +13,4 @@ New Episodes every Thursday at 5pm EST!
 - [Ep 7: 1960s](https://drive.google.com/file/d/1VSkVRrsMgN0SD-rkPXMnL1UkPZzE8BOD/view?usp=drive_link)
 - [Special Episode: EPIC](https://drive.google.com/file/d/1613kBVAWvslnqxBoowYZJ6oEfhZxVGoJ/view?usp=drivesdk)
 - [Ep 8: 1970s](https://drive.google.com/file/d/1dGEWRdUkTxTO9aOCfqsPtKbhBmhtjBOE/view?usp=drive_link)
+- [Ep 9: 1980s](https://drive.google.com/file/d/1YlW263nRUypWMcYMsSB1YF9KJIp66KsW/view?usp=drive_link)
